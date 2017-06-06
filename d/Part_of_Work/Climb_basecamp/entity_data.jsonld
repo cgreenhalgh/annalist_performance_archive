@@ -1,0 +1,24 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Part_of_Work/Climb_basecamp",
+  "@type": [
+    "coll:Part_of_Work",
+    "frbroo:F20_Performance_Work",
+    "annal:EntityData"
+  ],
+  "annal:id": "Climb_basecamp",
+  "annal:member": [],
+  "annal:member__2": [],
+  "annal:type": "coll:Part_of_Work",
+  "annal:type_id": "Part_of_Work",
+  "coll:part_id": "basecamp",
+  "coll:part_rank": "1",
+  "entity:seeAlso_r": [],
+  "rdfs:comment": "Basecamp fragment of Climb!",
+  "rdfs:label": "Basecamp (Fragment of Climb!)"
+}

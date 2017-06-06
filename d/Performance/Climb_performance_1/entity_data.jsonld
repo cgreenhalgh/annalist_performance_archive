@@ -1,0 +1,36 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Performance/Climb_performance_1",
+  "@type": [
+    "frbroo:F31_Performance",
+    "prov:Activity",
+    "crm:E5_Event",
+    "crm:E7_Activity",
+    "mo:Performance",
+    "annal:EntityData"
+  ],
+  "annal:id": "Climb_performance_1",
+  "annal:missing_field": "",
+  "annal:type": "frbroo:F31_Performance",
+  "annal:type_id": "Performance",
+  "coll:system_id": "be418821-436d-41c2-880c-058dffb57d91",
+  "coll:uploaded_image_r": [],
+  "crm:P126_employed_r": [],
+  "crm:P7_took_place_at": "Place/Djanogly_Recital_Hall",
+  "entity:seeAlso_r": [],
+  "frbroo:R25F_performed_r": [
+    {
+      "frbroo:R25F_performed": "Performed_work/Climb"
+    }
+  ],
+  "prov:qualifiedAssociation": [],
+  "prov:startedAtTime": "",
+  "prov:used_r": [],
+  "rdfs:comment": "Premiere performance of Climb!",
+  "rdfs:label": "Premiere performance of Climb!"
+}

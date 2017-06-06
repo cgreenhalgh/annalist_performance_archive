@@ -1,0 +1,34 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Performance/Perform_Climb_basecamp_test",
+  "@type": [
+    "frbroo:F31_Performance",
+    "prov:Activity",
+    "crm:E5_Event",
+    "crm:E7_Activity",
+    "mo:Performance",
+    "annal:EntityData"
+  ],
+  "annal:id": "Perform_Climb_basecamp_test",
+  "annal:type": "frbroo:F31_Performance",
+  "annal:type_id": "Performance",
+  "coll:system_id": "123",
+  "coll:uploaded_image_r": [],
+  "crm:P7_took_place_at": "",
+  "entity:seeAlso_r": [],
+  "frbroo:R25F_performed_r": [
+    {
+      "frbroo:R25F_performed": "Part_of_Work/Climb_basecamp"
+    }
+  ],
+  "prov:qualifiedAssociation": [],
+  "prov:startedAtTime": "2017-06-08T17:34:00Z",
+  "prov:used_r": [],
+  "rdfs:comment": "Example performance of Climb basecamp",
+  "rdfs:label": "Example performance of Climb basecamp"
+}

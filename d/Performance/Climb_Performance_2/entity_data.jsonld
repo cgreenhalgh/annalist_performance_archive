@@ -1,0 +1,46 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Performance/Climb_Performance_2",
+  "@type": [
+    "frbroo:F31_Performance",
+    "prov:Activity",
+    "crm:E5_Event",
+    "crm:E7_Activity",
+    "mo:Performance",
+    "annal:EntityData"
+  ],
+  "annal:id": "Climb_Performance_2",
+  "annal:type": "frbroo:F31_Performance",
+  "annal:type_id": "Performance",
+  "coll:system_id": "13a7fa70-ae91-4541-9526-fd3b332b585d",
+  "coll:uploaded_image_r": [],
+  "crm:P7_took_place_at": "",
+  "entity:seeAlso_r": [
+    {
+      "rdfs:seeAlso": "urn:guid:13a7fa70-ae91-4541-9526-fd3b332b585d"
+    },
+    {
+      "rdfs:seeAlso": "http://musicbrainz.org/...climbperf2..."
+    }
+  ],
+  "frbroo:R25F_performed_r": [
+    {
+      "frbroo:R25F_performed": "Performed_work/Climb"
+    }
+  ],
+  "prov:qualifiedAssociation": [
+    {
+      "crm:P12i_was_present_at": "Person/Maria_Kallionpaa",
+      "prov:hadRole": ""
+    }
+  ],
+  "prov:startedAtTime": "2017-06-08T17:30:00Z",
+  "prov:used_r": [],
+  "rdfs:comment": "Second performance of Climb!",
+  "rdfs:label": "Second performance of Climb!"
+}

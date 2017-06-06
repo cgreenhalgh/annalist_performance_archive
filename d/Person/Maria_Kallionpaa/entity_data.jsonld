@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Person/Maria_Kallionpaa",
+  "@type": [
+    "crm:E21_Person",
+    "prov:Entity",
+    "prov:Agent",
+    "crm:E39_Actor",
+    "crm:E77_Persistent_Item",
+    "annal:EntityData"
+  ],
+  "annal:id": "Maria_Kallionpaa",
+  "annal:type": "crm:E21_Person",
+  "annal:type_id": "Person",
+  "entity:seeAlso_r": [],
+  "rdfs:comment": "Maria Kallionp\u00e4\u00e4",
+  "rdfs:label": "Maria Kallionp\u00e4\u00e4"
+}

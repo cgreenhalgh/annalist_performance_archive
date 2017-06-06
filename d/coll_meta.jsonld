@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "./"
+    },
+    "coll_context.jsonld"
+  ],
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:id": "annalist_performance_archive",
+  "annal:inherit_from": "_coll/Performance_defs",
+  "annal:meta_comment": "",
+  "annal:software_version": "0.1.37",
+  "annal:type": "annal:Collection",
+  "annal:type_id": "_coll",
+  "rdfs:comment": "FAST/MRL Performance Archive",
+  "rdfs:label": "FAST/MRL Performance Archive"
+}

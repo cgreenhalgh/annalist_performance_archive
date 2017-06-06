@@ -1,0 +1,15 @@
+{
+  "@context": [
+    {
+      "@base": "../"
+    },
+    "../coll_context.jsonld"
+  ],
+  "@id": "Part_of_Work",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:id": "Part_of_Work",
+  "annal:type": "annal:Type_Data",
+  "annal:type_id": "_entitytypedata"
+}

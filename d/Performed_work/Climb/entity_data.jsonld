@@ -1,0 +1,42 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Performed_work/Climb",
+  "@type": [
+    "frbroo:F20_Performance_Work",
+    "prov:Entity",
+    "crm:E77_Persistent_Item",
+    "crm:E70_Thing",
+    "crm:E71_Man-Made_Thing",
+    "crm:E29_Design_or_Procedure",
+    "crm:E73_Information_Object",
+    "crm:E28_Conceptual_Object",
+    "frbroo:frbroo:F1_Work",
+    "annal:EntityData"
+  ],
+  "annal:id": "Climb",
+  "annal:member": [
+    {
+      "prov:wasAttributedTo": "Person/Maria_Kallionpaa"
+    }
+  ],
+  "annal:member__2": [
+    {
+      "crm:P12i_was_present_at": "Event/Climb_Concert_20170608"
+    }
+  ],
+  "annal:type": "frbroo:F20_Performance_Work",
+  "annal:type_id": "Performed_work",
+  "entity:seeAlso_r": [],
+  "frbroo:R10_has_member": [
+    {
+      "frbroo:R10_has_member": "Part_of_Work/Climb_basecamp"
+    }
+  ],
+  "rdfs:comment": "The Climb! composition",
+  "rdfs:label": "Climb!"
+}
