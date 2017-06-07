@@ -21,6 +21,11 @@
   "coll:uploaded_image_r": [],
   "crm:P7_took_place_at": "",
   "entity:seeAlso_r": [],
+  "event:sub_event": [
+    {
+      "event:sub_event": "Performance/Perform_Climb_basecamp_test"
+    }
+  ],
   "frbroo:R25F_performed_r": [
     {
       "frbroo:R25F_performed": "Performed_work/Climb"
