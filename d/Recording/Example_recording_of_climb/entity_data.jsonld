@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Recording/00000007",
+  "@id": "Recording/Example_recording_of_climb",
   "@type": [
     "frbroo:F26_Recording",
     "prov:Entity",
@@ -16,14 +16,19 @@
     "mo:MusicalExpression",
     "annal:EntityData"
   ],
-  "annal:id": "00000007",
+  "annal:id": "Example_recording_of_climb",
   "annal:type": "frbroo:F26_Recording",
   "annal:type_id": "Recording",
-  "coll:linked_audio_clips": [],
+  "coll:linked_audio_clips": [
+    {
+      "coll:linked_audio_m": "Linked_audio/example_recording_audio_clip"
+    }
+  ],
   "coll:linked_images": [],
   "entity:seeAlso_r": [],
-  "mo:records": "Performance/00000005",
+  "mo:records": "Performance/Climb_performance_1",
   "prov:hadMember_repeat": [],
+  "prov:startedAtTime": "2017-06-08T16:05:00.000Z",
   "rdfs:comment": "Recording of Premiere of Climb!",
   "rdfs:label": "Recording of Premiere of Climb!"
 }

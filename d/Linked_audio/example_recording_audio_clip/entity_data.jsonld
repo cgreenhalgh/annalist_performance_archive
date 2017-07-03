@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Linked_audio/example_recording_audio_clip",
+  "@type": [
+    "coll:Linked_audio",
+    "annal:EntityData"
+  ],
+  "annal:id": "example_recording_audio_clip",
+  "annal:type": "coll:Linked_audio",
+  "annal:type_id": "Linked_audio",
+  "coll:audio_clip": "http://some.url/some.file.mp3",
+  "rdfs:comment": "Example recording audio clip",
+  "rdfs:label": "Example recording audio clip"
+}
