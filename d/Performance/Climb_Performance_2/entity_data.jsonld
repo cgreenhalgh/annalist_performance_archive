@@ -20,14 +20,8 @@
   "coll:system_id": "13a7fa70-ae91-4541-9526-fd3b332b585d",
   "coll:uploaded_image_r": [],
   "crm:P7_took_place_at": "",
-  "entity:seeAlso_r": [
-    {
-      "rdfs:seeAlso": "urn:guid:13a7fa70-ae91-4541-9526-fd3b332b585d"
-    },
-    {
-      "rdfs:seeAlso": "http://musicbrainz.org/...climbperf2..."
-    }
-  ],
+  "entity:seeAlso_r": [],
+  "event:sub_event": [],
   "frbroo:R25F_performed_r": [
     {
       "frbroo:R25F_performed": "Performed_work/Climb"
@@ -41,6 +35,6 @@
   ],
   "prov:startedAtTime": "2017-06-08T17:30:00Z",
   "prov:used_r": [],
-  "rdfs:comment": "Second performance of Climb!",
+  "rdfs:comment": "The second performance of Climb!, during the world premiere, 8th June 2017.",
   "rdfs:label": "Second performance of Climb!"
 }

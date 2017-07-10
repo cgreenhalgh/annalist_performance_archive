@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Performance/Climb_performance_1",
+  "@id": "Performance/Climb_am_performance_2",
   "@type": [
     "frbroo:F31_Performance",
     "prov:Activity",
@@ -14,14 +14,12 @@
     "mo:Performance",
     "annal:EntityData"
   ],
-  "annal:id": "Climb_performance_1",
-  "annal:missing_field": "",
+  "annal:id": "Climb_am_performance_2",
   "annal:type": "frbroo:F31_Performance",
   "annal:type_id": "Performance",
-  "coll:system_id": "be418821-436d-41c2-880c-058dffb57d91",
+  "coll:system_id": "438d52bd-935e-4ff1-a5f1-cd60226a5950",
   "coll:uploaded_image_r": [],
-  "crm:P126_employed_r": [],
-  "crm:P7_took_place_at": "Place/Djanogly_Recital_Hall",
+  "crm:P7_took_place_at": "",
   "entity:seeAlso_r": [],
   "event:sub_event": [],
   "frbroo:R25F_performed_r": [
@@ -29,9 +27,14 @@
       "frbroo:R25F_performed": "Performed_work/Climb"
     }
   ],
-  "prov:qualifiedAssociation": [],
-  "prov:startedAtTime": "2017-06-08T16:05:00Z",
+  "prov:qualifiedAssociation": [
+    {
+      "crm:P12i_was_present_at": "Person/Maria_Kallionpaa",
+      "prov:hadRole": ""
+    }
+  ],
+  "prov:startedAtTime": "2017-08-23T16:30:00Z",
   "prov:used_r": [],
-  "rdfs:comment": "The world premiere performance of Climb!",
-  "rdfs:label": "Premiere performance of Climb!"
+  "rdfs:comment": "Second performance of Climb! at AudioMostly 2017, date/time to be confirmed",
+  "rdfs:label": "Second performance of Climb! at AudioMostly"
 }

@@ -17,7 +17,14 @@
   "annal:id": "Maria_Kallionpaa",
   "annal:type": "crm:E21_Person",
   "annal:type_id": "Person",
-  "entity:seeAlso_r": [],
-  "rdfs:comment": "Maria Kallionp\u00e4\u00e4",
+  "entity:seeAlso_r": [
+    {
+      "rdfs:seeAlso": "https://musicbrainz.org/artist/e64ba083-58f6-49e5-9bd7-92883d6fb10f"
+    },
+    {
+      "rdfs:seeAlso": "https://soundcloud.com/m-kallionpaa"
+    }
+  ],
+  "rdfs:comment": "Dr. Maria Kallionp\u00e4\u00e4\u00a0(1981) is an internationally active composer and pianist. She earned her PhD in composition at the university of Oxford in 2015. Kallionp\u00e4\u00e4 won the first prize of the OUPHIL composition competition in 2013. She has graduated from the Royal Academy of Music (2009) and Universit\u00e4t f\u00fcr Musik und Darstellende Kunst Wien (2010) and has also studied composition and piano at Sibelius Academy and Universit\u00e4t Mozarteum Salzburg.\u00a0Her works have been performed at Musikverein Wien, Philharmonie Luxembourg, and Sibiu Philharmonia. In 2011 Kallionp\u00e4\u00e4 was a commissioned composer of the Turku European Culture Capital and a finalist of the Tenso European Chamber Choir Composition Competition.  Kallionp\u00e4\u00e4 has performed at numerous music festivals including Rainy Days Festival at Philharmonie Luxembourg, Musica Nova (Helsinki), Spitalfields Festival (London), and Neue Musik von Thuringen. In 2016 her music was performed at the Florida International Toy Piano Festival.\r\n\u00a0\r\nKallionp\u00e4\u00e4 currently works as a postdoctoral fellow at the university of Aalborg and as a composer in residence of the Mixed Reality Laboratory of the Nottingham University. Her artistic research project focuses on designing a music engine that uses gamification as a composition technique. Kallionp\u00e4\u00e4 is a winner of the Fabbrica Young Artist Development Program of Opera di Roma, for which she is currently composing a new opera that will be premiered in 2017. Moreover, in collaboration with her colleague Markku Klami, Kallionp\u00e4\u00e4 is also working on the first full-length puppet opera produced in the Nordic Countries, which will premiere in 2018. Kallionp\u00e4\u00e4 was a laureate of Acad\u00e9mie de France \u00e0 Rome in\u00a02016.\u00a0",
   "rdfs:label": "Maria Kallionp\u00e4\u00e4"
 }

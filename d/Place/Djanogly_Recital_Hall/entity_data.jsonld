@@ -15,7 +15,11 @@
   "annal:type_id": "Place",
   "crm:P89_falls_within": "",
   "crm:P89i_contains_repeat": [],
-  "entity:seeAlso_r": [],
+  "entity:seeAlso_r": [
+    {
+      "rdfs:seeAlso": "https://musicbrainz.org/place/64a44f4f-9c29-4d42-a5be-18b8a9cebd23"
+    }
+  ],
   "rdfs:comment": "Djanogly Recital Hall, Nottingham",
   "rdfs:label": "Djanogly Recital Hall, Nottingham"
 }
