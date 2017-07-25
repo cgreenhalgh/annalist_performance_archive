@@ -19,7 +19,7 @@
   "annal:type_id": "Performance",
   "coll:system_id": "f01a5d26-6569-4879-9aef-58334110c307",
   "coll:uploaded_image_r": [],
-  "crm:P7_took_place_at": "",
+  "crm:P7_took_place_at": "Place/Oxford_House_Theatre",
   "entity:seeAlso_r": [],
   "event:sub_event": [],
   "frbroo:R25F_performed_r": [
@@ -33,8 +33,8 @@
       "prov:hadRole": ""
     }
   ],
-  "prov:startedAtTime": "2017-08-23T16:00:00Z",
+  "prov:startedAtTime": "2017-08-25T20:00:00Z",
   "prov:used_r": [],
-  "rdfs:comment": "First performance of Climb! at AudioMostly, date/time to be confirmed.",
-  "rdfs:label": "First performance of Climb! at AudioMostly"
+  "rdfs:comment": "The performance of Climb! at AudioMostly, 25th August 2017.",
+  "rdfs:label": "Performance of Climb! at AudioMostly"
 }

@@ -19,7 +19,7 @@
   "annal:type_id": "Performance",
   "coll:system_id": "e888ea0f-8c81-48a8-8462-bc98dd04f495",
   "coll:uploaded_image_r": [],
-  "crm:P7_took_place_at": "",
+  "crm:P7_took_place_at": "Place/Oxford_House_Theatre",
   "entity:seeAlso_r": [],
   "event:sub_event": [],
   "frbroo:R25F_performed_r": [
@@ -33,8 +33,8 @@
       "prov:hadRole": ""
     }
   ],
-  "prov:startedAtTime": "2017-08-23T15:00:00Z",
+  "prov:startedAtTime": "2017-08-25T15:00:00Z",
   "prov:used_r": [],
-  "rdfs:comment": "Dress rehearsal of Climb! for AudioMostly 2017, QMUL. Date/time to be confirmed.",
+  "rdfs:comment": "Dress rehearsal of Climb! (if there is one) at AudioMostly, 25th August 2017.",
   "rdfs:label": "Climb rehearsal at AudioMostly"
 }
